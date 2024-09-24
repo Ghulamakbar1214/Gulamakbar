@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ghulam Akbar</h1>
+ ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif )
+    <h1 align="center">Hi 👋, I'm Ghulam Akbar</h1>
 <h3 align="center">A passionate frontend developer from Karachi Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
